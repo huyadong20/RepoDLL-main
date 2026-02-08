@@ -1,0 +1,11 @@
+﻿  hook_dx11.cpp
+  mono_bridge.cpp
+C:\Users\18756\Desktop\RepoDLL-main\RepoDLL-main\RepoDLL\mono_bridge.cpp(2454,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (compiling source file '/mono_bridge.cpp')
+  
+  ui.cpp
+C:\Users\18756\Desktop\RepoDLL-main\RepoDLL-main\RepoDLL\ui.cpp(167,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (compiling source file '/ui.cpp')
+  
+  正在生成代码...
+  RepoDLL.vcxproj -> C:\Users\18756\Desktop\RepoDLL-main\RepoDLL-main\x64\Debug\RepoDLL.dll

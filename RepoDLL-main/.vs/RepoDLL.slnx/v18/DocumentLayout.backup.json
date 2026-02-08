@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\18756\\Desktop\\RepoDLL-main\\RepoDLL-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B39552C-D57C-42DE-B911-818894BAD5CB}|RepoDLL\\RepoDLL.vcxproj|C:\\Users\\18756\\Desktop\\RepoDLL-main\\RepoDLL-main\\RepoDLL\\mono_bridge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B39552C-D57C-42DE-B911-818894BAD5CB}|RepoDLL\\RepoDLL.vcxproj|solutionrelative:RepoDLL\\mono_bridge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mono_bridge.cpp",
+              "DocumentMoniker": "C:\\Users\\18756\\Desktop\\RepoDLL-main\\RepoDLL-main\\RepoDLL\\mono_bridge.cpp",
+              "RelativeDocumentMoniker": "RepoDLL\\mono_bridge.cpp",
+              "ToolTip": "C:\\Users\\18756\\Desktop\\RepoDLL-main\\RepoDLL-main\\RepoDLL\\mono_bridge.cpp",
+              "RelativeToolTip": "RepoDLL\\mono_bridge.cpp",
+              "ViewState": "AgIAAJgDAAAAAAAAAAAkwNQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T08:14:35.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
